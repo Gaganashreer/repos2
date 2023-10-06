@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-on master parent branch
-=======
 on branch b1(child branch of master)
->>>>>>> b1
+
